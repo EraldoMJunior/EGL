@@ -1,4 +1,7 @@
 # Teste do EGL para OFFSCREEN RENDER
 
+ 
+![Alt text](buffer.png?raw=true "Render output")
 
-![alt text](http://[ https://github.com/EraldoMJunior/EGL/ ]
+
+ 
